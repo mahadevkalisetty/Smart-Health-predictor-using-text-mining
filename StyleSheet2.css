@@ -1,0 +1,71 @@
+﻿.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+    position: fixed;
+    bottom: 131px;
+    right: 724px;
+    background-color: #0000ffff;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 238px;
+    width: 282px;
+    margin-top: 0px;
+    background-position:left;
+}
+.btn
+{
+    background-color:aliceblue;
+    width: 100px;
+    height: 30px;
+    border: solid 1px #000;
+    border-radius: 5px;
+    color:black;
+}
+res {
+    position: fixed;
+    bottom: 76px;
+    right: 633px;
+    background-color: #0000ffff;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 238px;
+    width: 282px;
+    margin-top: 0px;
+    background-position:left;
+    filter:blur(8px);
+}
+ .auto-style1 {
+            margin-left: 40px;
+        }
+        #Register {
+            width: 84px;
+        }
+        #submit {
+            width: 77px;
+        }
+        .Res {
+            width: 326px;
+        }
+
+.Register {
+    position: fixed;
+    bottom: -26px;
+    right: 236px;
+    background-color: #0000ffff;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 509px;
+    width: 282px;
+    margin-top: 0px;
+    background-position:left;
+}
+h2 {
+    color:white;
+    font-family:Algerian;
+}
